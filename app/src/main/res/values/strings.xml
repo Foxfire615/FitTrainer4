@@ -19,4 +19,13 @@
     <string name="login_unsuccessful">Invalid login attempt.</string>
     <string name="login_username">jdoe</string>
     <string name="login_password">welcome1</string>
+
+    <!-- Strings for Main Menu -->
+    <string name="customer_list">Customer List</string>
+    <string name="button_add">Add</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_session">Sessions</string>
+    <string name="button_apply">Apply</string>
+    <string name="button_back">Back</string>
 </resources>
